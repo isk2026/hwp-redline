@@ -1,0 +1,9 @@
+{
+  "name": "hwp-redline-skill",
+  "private": true,
+  "description": "Dependencies for the hwp-redline agent skill",
+  "license": "MIT",
+  "dependencies": {
+    "k-skill-rhwp": "^0.2.0"
+  }
+}
